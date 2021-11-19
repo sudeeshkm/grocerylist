@@ -1,0 +1,15 @@
+{
+    "Products":[
+    {"Serial":"1", "Name":"Coconut Oil", "Quantity":"100 ml", "Unit":"48", "Department":"Oil", "Notes":"Traditional Oil"},
+    {"Serial":"2", "Name": "Fresh Banana","Quantity":"4 kg", "Unit":"100", "Department":"Fruits", "Notes":"Nendran Banana"
+    },
+    {"Serial":"3",  "Name":"Cashewnut", "Quantity":"100 gm", "Unit":"120", "Department":"Nuts", "Notes":"Healthy Food"},
+    {"Serial":"4", "Name":"Quaker Oats", "Quantity":"400 gm", "Unit":"100", "Department":"Packed Food", "Notes":"Fat free diet"},
+    {"Serial":"5", "Name":"Goodlife Tonned Milk", "Quantity":"1 L", "Unit":"51", "Department":"Pantry", "Notes":"Skimmed Milk"},
+    {"Serial":"6", "Name":"Kashmir Apple", "Quantity":"1 Kg", "Unit":"130", "Department":"Fruits", "Notes":"Delicious Apple"},
+    {"Serial":"7","Name":" Chilli Powder", "Quantity":"200 gm", "Unit":"70", "Department":"Curry Powders", "Notes":"Powdered Ingredient"},
+    {"Serial":"8", "Name":"India Gate Basmathi Rice", "Quantity":"2 Kg", "Unit":"200", "Department":"Rice", "Notes":"Long Biriyani Rice"},
+    {"Serial":"9", "Name":"Spice Mix", "Quantity":"250 gm", "Unit":"60", "Department":"Curry Powders", "Notes":"Garam Masala"},
+    {"Serial":"10", "Name":"Peeled Prawns", "Quantity":"1 Kg", "Unit":"400", "Department":"Seafood", "Notes":"Fresh Packed Seafood"}
+  ]
+  }
